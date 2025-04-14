@@ -1,0 +1,36 @@
+[
+    {
+      "id": "001",
+      "name": "Hanni GX",
+      "group": "NewJeans",
+      "rarity": "Ultra Rare",
+      "hp": 180,
+      "energyType": "Dance",
+      "image": "/images/hanni.png",
+      "ability": "Frog Whistle",
+      "description": "Heals 20 damage from all of your idols."
+    },
+    {
+      "id": "002",
+      "name": "Danielle GX",
+      "group": "NewJeans",
+      "rarity": "Rare",
+      "hp": 170,
+      "energyType": "Vocal",
+      "image": "/images/danielle.png",
+      "ability": "Eyes",
+      "description": "Switches active idol with one on bench."
+    },
+    {
+        "id": "003",
+        "name": "Chaewon GX",
+        "group": "LESSERAFIM",
+        "rarity": "Rare",
+        "hp": 170,
+        "energyType": "Vocal",
+        "image": "/images/chaewon.png",
+        "ability": "Eyes",
+        "description": "Switches active idol with one on bench."
+      }
+  ]
+  
