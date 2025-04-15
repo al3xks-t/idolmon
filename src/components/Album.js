@@ -15,7 +15,7 @@ const Album = ({ album, onBurst }) => {
   const uniqueCards = Object.values(grouped);
 
   return (
-    <div className="mt-20">
+    <div className="mt-40">
       <h2 className="text-2xl font-semibold text-purple-700 mb-4">📒 Your Collection</h2>
       <div className="flex flex-wrap justify-center">
         {uniqueCards.map((card, index) => (
